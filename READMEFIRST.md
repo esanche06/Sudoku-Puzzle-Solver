@@ -36,4 +36,6 @@ I suggest ACP LCV NKP NKT as your args.
 There is an additional README.md for anyone who wishes to develop on this project explaining more of the underlying
 architecture of this project, but this README is sufficient if you just want to try it out.
 
+There are three folders in the project: easy, medium, and hard, containing the output of many runs of this program, done as part of the analysis required for the class. You can also find a pdf document with some brief analysis of our findings in the project folder. 
+
 Thanks! And feel free to give feedback.
