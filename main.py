@@ -72,7 +72,6 @@ if __name__ == '__main__':
     # solver.setValueSelectionHeuristic(btsolver.ValueSelectionHeuristic['None'])
     # solver.setVariableSelectionHeuristic(btsolver.VariableSelectionHeuristic['None'])
     tokens = sys.argv[4:]
-    print(sys.argv)
     solver.setTokens(tokens)
 
     if len(sys.argv) < 4:
